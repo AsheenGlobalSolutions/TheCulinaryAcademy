@@ -40,7 +40,7 @@ TheCulinaryAcademy
 ## 🚀 How to Get Started  
 1. **Clone the repository**:  
    ```bash  
-   git clone [https://github.com/Charithharsha08/TheCulinaryAcademy.git](https://github.com/AsheenGlobalSolutions/TheCulinaryAcademy.git)  
+   git clone https://github.com/AsheenGlobalSolutions/TheCulinaryAcademy.git  
    ```  
 2. **Set up the database**:  
    - Create a MySQL database.  
